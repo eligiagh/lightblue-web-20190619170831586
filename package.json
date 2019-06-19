@@ -1,6 +1,6 @@
 {
   "name": "consumer",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
@@ -35,8 +35,5 @@
     "serve-favicon": "~2.3.0",
     "url-pattern": "^1.0.1"
   }
-  "engines": {
-    "node": "8.0.0",
-    "npm": "2.7.4"
-  }
+  
 }
